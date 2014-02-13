@@ -1,0 +1,10 @@
+Best Model: (0.88323, 'svd100:max(all)+boilerplate*10')
+
+0.88326 Average with raw data
+0.8853 Weighted average with raw data
+0.88584 Selected Weight with raw data
+
+0.88296 Mean without raw data
+0.88526 Weighted mean without raw data
+0.88599 Selected weight without raw data
+
